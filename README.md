@@ -28,12 +28,13 @@
 ![](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
 ![](	https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
-
-## Other Common Github Profile Sections
+## 	👋	👋	👋	👋	👋	👋	👋	👋	👋	👋	👋	👋	👋
 👩‍💻 I'm currently working on Next js
 
 🧠 I'm currently learning everything 🤣🤣🤣	
 
 ⚡️ My resumé is just a list of things I hope you never ask me to do (🤣🤣 joke don't take it seriously 🤣🤣🤣	)
+
+
 
 
