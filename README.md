@@ -4,6 +4,8 @@
 ## 🚀 About Me
 👋 I am Rishabh Kumar. I'm a Full Stack Web Developer. i like to explore new technologies and develop software solution.  and also i  love to do creative thing like(photoshop,editing video). i created a some repository for those who want to learn new technology step-by-step so if you find my repository interesting atleast give a star it could may be useful for someone
 
+![Rishabh GitHub stats](https://github-readme-stats.vercel.app/api?username=1741Rishabh&show_icons=true&theme=radical)
+
 
 
 ## 🔗 fell free to reach out to me for some intersting discussion
