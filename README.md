@@ -39,6 +39,9 @@
 
 ⚡️ My resumé is just a list of things I hope you never ask me to do (🤣🤣 joke don't take it seriously 🤣🤣🤣	)
 
+## Watch snake eating my github contributions
+![snake gif](https://github.com/1741Rishabh/1741Rishabh/blob/output/github-contribution-grid-snake.svg)
+
 
 
 
