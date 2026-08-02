@@ -92,23 +92,18 @@ public class Rishabh {
 
 </div>
 
-## GitHub journey
+## GitHub activity
 
 <div align="center">
 
-<img width="96%" src="https://github-profile-trophy.vercel.app/?username=rishabhkumar1741&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1&column=6" alt="GitHub trophies" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rishabhkumar1741&show_icons=true&hide_border=true&theme=tokyonight&rank_icon=github" alt="Rishabh's GitHub statistics" />
-<img width="49%" src="https://streak-stats.demolab.com?user=rishabhkumar1741&theme=tokyonight&hide_border=true" alt="Rishabh's contribution streak" />
+<p>
+  <a href="https://github.com/rishabhkumar1741?tab=followers"><img src="https://img.shields.io/github/followers/rishabhkumar1741?style=for-the-badge&logo=github&label=Followers" alt="GitHub followers" /></a>
+  <a href="https://github.com/rishabhkumar1741?tab=repositories"><img src="https://img.shields.io/badge/View_Repositories-2563EB?style=for-the-badge&logo=github&logoColor=white" alt="View repositories" /></a>
+  <a href="https://github.com/rishabhkumar1741?tab=achievements"><img src="https://img.shields.io/badge/View_Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View achievements" /></a>
+</p>
 
 <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkumar1741&theme=tokyo-night&hide_border=true&area=true" alt="Rishabh's contribution activity graph" />
 
-</div>
-
-## Contributions in motion
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/rishabhkumar1741/rishabhkumar1741/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake animation" />
 </div>
 
 ---
