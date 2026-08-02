@@ -1,5 +1,5 @@
 # Hi, I'm Rishabh  👋
- [![@rphi's Holopin board](https://holopin.io/api/user/board?user=rphi)](https://holopin.io/@rishabh1741)
+<img align="right" alt="Coding" width="400" src="/photo.png">
 
     
 ## 🚀 About Me
