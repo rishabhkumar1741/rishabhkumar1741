@@ -102,7 +102,9 @@ public class Rishabh {
   <a href="https://github.com/rishabhkumar1741?tab=achievements"><img src="https://img.shields.io/badge/View_Achievements-7C3AED?style=for-the-badge&logo=github&logoColor=white" alt="View achievements" /></a>
 </p>
 
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=rishabhkumar1741&theme=tokyo-night&hide_border=true&area=true" alt="Rishabh's contribution activity graph" />
+<a href="https://github.com/rishabhkumar1741?tab=overview">
+  <img width="98%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rishabhkumar1741&theme=tokyonight" alt="Rishabh's GitHub contribution activity" />
+</a>
 
 </div>
 
